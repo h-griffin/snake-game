@@ -1,4 +1,6 @@
-
+# Snake game
+## by Griffin
+### grow the snake collecting food, but dont hit your tail or break the boarder!
 
 > $ pip install pygame
 
