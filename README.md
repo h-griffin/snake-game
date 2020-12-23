@@ -13,3 +13,4 @@ allow pygame in `vscode settings.json`
     ],
 ```
 
+update colors and rules
