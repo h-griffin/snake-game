@@ -4,7 +4,7 @@
 
 > $ pip install pygame
 
-allow pygame in `vscode settings.json`
+allow pygame in `vscode settings.json` (vscode auto block external c files)
 ```
     "python.linting.pylintArgs": [
         "--extension-pkg-whitelist=pygame",
@@ -14,3 +14,5 @@ allow pygame in `vscode settings.json`
 ```
 
 update colors and rules
+
+
